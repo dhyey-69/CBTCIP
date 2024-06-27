@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string name="select_category_prompt">Select Unit Category</string>
+    <string name="select_unit_prompt">Select Unit</string>
+
+    <string-array name="unit_categories">
+        <item>Select Unit Category</item>
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Volume</item>
+        <item>Temperature</item>
+        <item>Time</item>
+        <item>Number Systems</item>
+    </string-array>
+
+    <string-array name="default_array">
+        <item></item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Select Unit</item>
+        <item>Meters</item>
+        <item>Centimeters</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Select Unit</item>
+        <item>Kilograms</item>
+        <item>Grams</item>
+    </string-array>
+
+    <string-array name="volume_units">
+        <item>Select Unit</item>
+        <item>Liters</item>
+        <item>Milliliters</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Select Unit</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="time_units">
+        <item>Select Unit</item>
+        <item>Seconds</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+    </string-array>
+
+    <string-array name="number_system_units">
+        <item>Select Unit</item>
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Hexadecimal</item>
+        <item>Octal</item>
+    </string-array>
+</resources>
